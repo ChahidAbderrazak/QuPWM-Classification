@@ -5,6 +5,6 @@ For more details please refer to this paper: https://ieeexplore.ieee.org/documen
 
 All Copyrights are preserved  (c) 2018
 
-THE SOFTWARE IS PROTECTED BY PATENT TO KING ABDULLAH UNIVERSITY OF SCIENCE AN TECHNOLOGY 2019. For more details about the license please feel free to contact KAUST services: IP@kaust.edu.sa
+THE SOFTWARE IS PROTECTED BY A PATENT TO KING ABDULLAH UNIVERSITY OF SCIENCE AN TECHNOLOGY. For more details about the license please feel free to contact KAUST services: IP@kaust.edu.sa
 
 
